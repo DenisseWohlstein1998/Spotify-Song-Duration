@@ -16,4 +16,5 @@ Data collection involves utilizing a function to send requests to Spotify’s AP
 
 The dataset comprises over 34 variables, which include 22 numerical variables related to characteristics and 12 categorical variables for artists, genre, and album type, among others. These variables fall into four types: float, integral, strings, and booleans.
 
- 
+ ![Example Image](images/Kaggle.png)
+
