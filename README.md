@@ -26,18 +26,23 @@ Average duration across the years (1986-2023) per the dataset
 ![Example Image](images/average duration of songs accross years.png)
 
 1. Correlation Analysis / Correlation Heatmap
+   
 ![Example Image](images/correlation heatmap.png)
 
 2. Simple Regression
+   
 ![Example Image](images/sample regression.png)
 
 3. PCA Analysis
+   
 ![Example Image](images/PCA Analysis.png)
 
 4. Multiple Regression
+   
 ![Example Image](images/multiple regression.png)
 
 5. Time Series
+   
 ![Example Image](images/time series.png)
 
 Conclusion
