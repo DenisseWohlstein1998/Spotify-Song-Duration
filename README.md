@@ -17,4 +17,41 @@ Data collection involves utilizing a function to send requests to Spotify’s AP
 The dataset comprises over 34 variables, which include 22 numerical variables related to characteristics and 12 categorical variables for artists, genre, and album type, among others. These variables fall into four types: float, integral, strings, and booleans.
 
  ![Example Image](images/kaggle.png)
+ ![Example Image](images/spotify.png)
+
+
+Analysis
+
+Average duration across the years (1986-2023) per the dataset
+![Example Image](images/average duration of songs accross years.png)
+
+1. Correlation Analysis / Correlation Heatmap
+![Example Image](images/correlation heatmap.png)
+
+2. Simple Regression
+![Example Image](images/sample regression.png)
+
+3. PCA Analysis
+![Example Image](images/PCA Analysis.png)
+
+4. Multiple Regression
+![Example Image](images/multiple regression.png)
+
+5. Time Series
+![Example Image](images/time series.png)
+
+Conclusion
+This study's findings show that quantitative models may not capture a strong relationship between duration and amount of streams/popularity. This indicates that the descreasing trend in song duration might be influenced more by qualitative factors aside from streams alone.
+
+Click on the jupyter notebook file (.ipynb) to learn further, including the code used to conduct this statistical study.
+
+
+
+
+
+
+
+ 
+
+
 
