@@ -27,23 +27,23 @@ Average duration across the years (1986-2023) per the dataset
 
 1. Correlation Analysis / Correlation Heatmap
    
-![Example Image](images/correlation heatmap.png)
+![Example Image](images/correlationheatmap.png)
 
 2. Simple Regression
    
-![Example Image](images/sample regression.png)
+![Example Image](images/sampleregression.png)
 
 3. PCA Analysis
    
-![Example Image](images/PCA Analysis.png)
+![Example Image](images/PCAAnalysis.png)
 
 4. Multiple Regression
    
-![Example Image](images/multiple regression.png)
+![Example Image](images/multipleregression.png)
 
 5. Time Series
    
-![Example Image](images/time series.png)
+![Example Image](images/timeseries.png)
 
 Conclusion
 This study's findings show that quantitative models may not capture a strong relationship between duration and amount of streams/popularity. This indicates that the descreasing trend in song duration might be influenced more by qualitative factors aside from streams alone.
